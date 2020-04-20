@@ -14,7 +14,7 @@
 #include "ociext.h"
 
 /*
-** OCI error handler
+** OCI extension error handler
 */
 ub4 OCIEXTErrorHandler(OCIError* errhp, sword status) {
     text buffer[_MAX_BUFFER_SIZE];
@@ -58,7 +58,7 @@ ub4 OCIEXTErrorHandler(OCIError* errhp, sword status) {
 }
 
 /*
-** Display error message
+** OCI extension display error message
 */
 ub4 OCIEXTDisplayErrorMessage(const char* format, ...) {
     char* title = _MSG_TITLE_HEADING;

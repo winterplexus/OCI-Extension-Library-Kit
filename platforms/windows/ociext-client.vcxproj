@@ -28,6 +28,13 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\ociext\inc\ociext.h" />
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ociext-client.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="resource.ico" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
