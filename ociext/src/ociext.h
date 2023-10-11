@@ -4,7 +4,7 @@
 **  libociext - OCI extension functions
 **  -----------------------------------
 **
-**  copyright 2001-2020 Code Construct Systems (CCS)
+**  Copyright (c) Wiregrass Code Technology 2001-2024
 */
 #ifndef _OCIEXT_H
 #define _OCIEXT_H

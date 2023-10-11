@@ -77,11 +77,11 @@ BEGIN
     BEGIN
         BLOCK "040904b0"
         BEGIN
-            VALUE "CompanyName", "Code Construct Systems (CCS)"
+            VALUE "CompanyName", "Wiregrass Code Technology"
             VALUE "FileDescription", "oci extension change password application"
             VALUE "FileVersion", "1.1.0.0"
             VALUE "InternalName", "ociext-changepassword.exe"
-            VALUE "LegalCopyright", "Copyright (C) 2001-2020 Code Construct Systems (CCS)"
+            VALUE "LegalCopyright", "Copyright (c) Wiregrass Code Technology 2001-2024"
             VALUE "OriginalFilename", "ociext-changepassword.exe"
             VALUE "ProductName", "oci extension"
             VALUE "ProductVersion", "1.1.0.0"

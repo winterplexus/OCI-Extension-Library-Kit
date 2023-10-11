@@ -4,7 +4,7 @@
 **  libociext - common definitions
 **  ------------------------------
 **
-**  copyright 2001-2020 Code Construct Systems (CCS)
+**  Copyright (c) Wiregrass Code Technology 2001-2024
 */
 #ifndef _COMMON_H
 #define _COMMON_H

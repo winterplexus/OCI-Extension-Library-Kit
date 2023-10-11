@@ -4,7 +4,7 @@
 **  libociext - OCI client application to login and change password
 **  ---------------------------------------------------------------
 **
-**  copyright 2001-2020 Code Construct Systems (CCS)
+**  Copyright (c) Wiregrass Code Technology 2001-2024
 */
 #include <locale.h>
 #include <stdio.h>
